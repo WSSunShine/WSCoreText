@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
 WSCoreText is order to slove rich text display
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/WSCoreText"
+  spec.homepage     = "https://github.com/WSSunShine/WSCoreText"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author             = { "Will" => "1229820171@qq.com" }
   spec.platform     = :ios
